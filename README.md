@@ -6,5 +6,11 @@
 2)wa_auto (whatsapp automation),
   include packages:selenium by entering the command "sudo pip3 install selenium" in terminal.
   then copy the path of the chrome_driver or any other driver file and add it my source code
+3)payload_gen(works only parrot or kali linux),
+  requirements:
+      sudo apt-get install figlet
+      pip3 install termcolor
+      pip3 install pyautogui
+      
   
   
